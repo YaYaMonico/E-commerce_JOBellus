@@ -2,131 +2,133 @@
 //objeto literal dos produtos que o site possui
 const products = {
   0: {
-    nome: 'Apple Iphone 11',
-    desc: 'Muito Utilizado em tecnologias avançadas..',
-    valor: 3320.0,
-    img: '<img src="assets/img/projects/iphone.png">',
+    nome: 'Combo Siàge - Acelera o Crescimento',
+   // desc: '..',
+    valor: 162.97,
+    img: '<img src="../img/projects/COMBO_SIAGE.png">',
     qtd: 1
   },
 
   1: {
-    nome: "Controle Xbox",
-    desc: "Muito Utilizado em tecnologias avançadas..",
-    valor: 290.0,
-    img: '<img src="assets/img/projects/console.png">',
+    nome: "Colar Tenha Fé de Prata",
+    //desc: "..",
+    valor: 149.90,
+    img: '<img src="../img/projects/PRATA.png">',
     qtd: 1
   },
 
   2: {
-    nome: "Headset Gamer",
-    desc: "Muito Utilizado em tecnologias avançadas..",
-    valor: 349.99,
-    img: '<img src="assets/img/projects/headphone1.png">',
+    nome: "Presente Natura Todo Dia",
+    //desc: "..",
+    valor: 114.90,
+    img: '<img src="../img/projects/KIT_NATURA.png">',
     qtd: 1
   },
 
   3: {
-    nome: "Air Jordan",
-    desc: "Muito Utilizado em tecnologias avançadas..",
-    valor: 329.99,
-    img: '<img src="assets/img/projects/nike-jordan.png">',
+    nome: "Bath Bombs",
+   // desc: "..",
+    valor: 99.99,
+    img: '<img src="../img/projects/BATHBOMBS.png">',
     qtd: 1
   },
 
   4: {
-    nome: "Xiaomi Mi Band",
-    desc: "Muito Utilizado em tecnologias avançadas..",
-    valor: 169.99,
-    img: '<img src="assets/img/projects/relógio.png">',
+    nome: "Top Sexy de Prata c Zirconias",
+   // desc: "..",
+    valor: 119.99,
+    img: '<img src="../img/projects/KITINSTANCE.png">',
     qtd: 1
   },
 
   5: {
-    nome: "Nutriwhey",
-    desc: "Muito Utilizado em tecnologias avançadas..",
-    valor: 48.49,
-    img: '<img src="assets/img/projects/whey.png">',
+    nome: "Aneis 2 em 1 Brilho Celestial",
+   // desc: "..",
+    valor: 198.90,
+    img: '<img src="../img/projects/ANEISSOLELUA.png">',
     qtd: 1
   },
 
   6: {
-    nome: "Slant Summer",
-    desc: "Muito Utilizado em tecnologias avançadas..",
+    nome: "Kit Instance Açaí e Bambu",
+   // desc: "..",
     valor: 131.19,
     img: '<img src="assets/img/projects/tenis-masc.png">',
     qtd: 1
   },
-
+/*
   7: {
-    nome: "Philco Smart TV",
-    desc: "Muito Utilizado em tecnologias avançadas..",
-    valor: 1399.00,
-    img: '<img src="assets/img/projects/Philco-Tv.png">',
+    nome: "..",
+    desc: "..",
+    valor: ,
+    img: '<img src="">',
     qtd: 1
   },
 
   8: {
-    nome: "Alexa Echo Dot",
-    desc: "Muito Utilizado em tecnologias avançadas..",
-    valor: 379.05,
-    img: '<img src="assets/img/projects/alexa.png">',
+    nome: "..",
+    desc: "..",
+    valor: ,
+    img: '<img src="">',
     qtd: 1
   },
+  */
+
   // PRODUTOS DA PAGINA DE PRODUTOS, COMEÇANDO DO 20
   20: {
-    nome: "Notebook HP",
-    desc: "Muito Utilizado em tecnologias avançadas..",
+    nome: "Presente Natura Essencial Oud Feminino com Bolsa",
+    //desc: "Material da bolsa ecologicamente pensado, versatil e duradouro. Algodão orgânico",
     valor: 3149.10,
-    img: '<img src="assets/img/pag-produtos/Notebook.png">',
+    img: '<img src="../img/pag-produtos/essencial-oud.png">',
     qtd: 1
   },
   21: {
-    nome: "playstation-5",
-    desc: "Muito Utilizado em tecnologias avançadas..",
-    valor: 3998.90,
-    img: '<img src="assets/img/pag-produtos/playstation-5_qjz1.png">',
+    nome: "Brinco Argola Semi Joia com Zirconias Banhado a Ouro 18k",
+   // desc: "",
+    valor: 99.99,
+    img: '<img src="../img/pag-produtos/brincos-zirconia.png">',
     qtd: 1
   },
   22: {
-    nome: "Pc Gamer Computador",
-    desc: "Muito Utilizado em tecnologias avançadas..",
-    valor: 2472.96,
-    img: '<img src="assets/img/pag-produtos/Pc-Gamer-Computador-PNG.png">',
+    nome: "Presente Natura Sève Amêndoas e Orquídea Negra",
+   // desc: "",
+    valor: 474.10,
+    img: '<img src="../img/pag-produtos/oleo-seve.png">',
     qtd: 1
   },
   23: {
-    nome: "Camera de Segurança",
-    desc: "Muito Utilizado em tecnologias avançadas..",
-    valor: 832.05,
-    img: '<img src="assets/img/pag-produtos/Camera-De-Segurança.png">',
+    nome: "Combo Siàge Completo - Reconstrói os Fios (7 itens)",
+   //desc: "..",
+    valor: 348.89,
+    img: '<img src="../img/pag-produtos/eudora-linha-reconstroi-os-fios.png">',
     qtd: 1
   },
   24: {
-    nome: "Drone DJI FPV",
-    desc: "Muito Utilizado em tecnologias avançadas..",
-    valor: 1057.00,
-    img: '<img src="assets/img/pag-produtos/Drone.png">',
+    nome: "Anel Semi Jóia Dourado Coração Com Pedras",
+    //desc: "..",
+    valor: 106.00,
+    img: '<img src="../img/pag-produtos/anel-semi-joia-dourado-coracao-com-pedras.png">',
     qtd: 1
   },
   25: {
-    nome: "SMARTPHONE GAMER",
-    desc: "Muito Utilizado em tecnologias avançadas..",
-    valor: 9719.19,
-    img: '<img src="assets/img/pag-produtos/smartphone-mobile.png">',
+    nome: "SCombo Siàge - Revela Os Cachos",
+   // desc: "",
+    valor: 159.98,
+    img: '<img src="../img/pag-produtos//siage-revela-os-cachos.png>',
     qtd: 1
   },
   26: {
-    nome: "Carregador Veicular",
+    nome: "Combo Eudora - La Victorie",
     desc: "Muito Utilizado em tecnologias avançadas..",
-    valor: 8307.31,
-    img: '<img src="assets/img/pag-produtos/Carregador_Veicular.png">',
+    valor: 329.05,
+    img: '<img src="../img/pag-produtos/la-parfum.png">',
     qtd: 1
   },
   27: {
-    nome: "Robô Aspirador de Pó",
-    desc: "Muito Utilizado em tecnologias avançadas..",
-    valor: 599.00,
-    img: '<img src="assets/img/pag-produtos/robot_unee_side_1.png">',
+    nome: "Combo Eudora - Eau De Parfum",
+    desc: "..",
+    valor: 315.99,
+    img: '<img src="../img/pag-produtos/Eau De-Parfum.png">',
     qtd: 1
   },
 

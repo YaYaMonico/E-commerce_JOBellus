@@ -55,57 +55,6 @@ $('.carrossel').slick({
   ]
 });
 
-// BUGUE NO CARROSEL
-// $('.carrone').slick({
-//   prevArrow: '.slick-prev-one',
-//   nextArrow: '.slick-next-one',
-//   autoplay: true,
-//   autoplaySpeed: 4000,
-//   infinite: true,
-//   speed: 300,
-//   slidesToShow: 4,
-//   slidesToScroll: 1,
-//   responsive: [
-//     {
-//       breakpoint: 1024,
-//       settings: {
-//         slidesToShow: 2,
-//         slidesToScroll: 2,
-//         infinite: true,
-//       }
-//     },
-//     {
-//       breakpoint: 947,
-//       settings: {
-//         slidesToShow: 3,
-//         slidesToScroll: 1
-//       }
-//     },
-//     {
-//       breakpoint: 424,
-//       settings: {
-//         slidesToShow: 1,
-//         slidesToScroll: 1
-//       }
-//     },
-//     {
-//       breakpoint: 600,
-//       settings: {
-//         slidesToShow: 2,
-//         slidesToScroll: 1
-//       }
-//     },
-//     {
-//       breakpoint: 480,
-//       settings: {
-//         slidesToShow: 2,
-//         slidesToScroll: 1
-//       }
-//     }
-//   ]
-// });
-
-
 /* OPEN PAGE LOGIN REGISTER */
 
 $('button').on('click', function () {
