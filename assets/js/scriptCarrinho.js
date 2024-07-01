@@ -5,7 +5,7 @@ const products = {
     nome: 'Combo Siàge - Acelera o Crescimento',
    // desc: '..',
     valor: 162.97,
-    img: '<img src="../img/projects/COMBO_SIAGE.png">',
+    img: '<img src="assets/img/projects/COMBO_SIAGE.png">',
     qtd: 1
   },
 
@@ -13,7 +13,7 @@ const products = {
     nome: "Colar Tenha Fé de Prata",
     //desc: "..",
     valor: 149.90,
-    img: '<img src="../img/projects/PRATA.png">',
+    img: '<img src="assets/img/projects/PRATA.png">',
     qtd: 1
   },
 
@@ -21,7 +21,7 @@ const products = {
     nome: "Presente Natura Todo Dia",
     //desc: "..",
     valor: 114.90,
-    img: '<img src="../img/projects/KIT_NATURA.png">',
+    img: '<img src="assets/img/projects/KIT_NATURA.png">',
     qtd: 1
   },
 
@@ -29,7 +29,7 @@ const products = {
     nome: "Bath Bombs",
    // desc: "..",
     valor: 99.99,
-    img: '<img src="../img/projects/BATHBOMBS.png">',
+    img: '<img src="assets/img/projects/BATHBOMBS.png">',
     qtd: 1
   },
 
@@ -37,34 +37,34 @@ const products = {
     nome: "Top Sexy de Prata c Zirconias",
    // desc: "..",
     valor: 119.99,
-    img: '<img src="../img/projects/KITINSTANCE.png">',
+    img: '<img src="assets/img/projects/top-carnaval.png">',
     qtd: 1
   },
 
   5: {
-    nome: "Aneis 2 em 1 Brilho Celestial",
-   // desc: "..",
-    valor: 198.90,
-    img: '<img src="../img/projects/ANEISSOLELUA.png">',
-    qtd: 1
+    nome: "Kit Instance Karité",
+    // desc: "..",
+     valor: 113.97,
+     img: '<img src="assets/img/projects/KITINSTANCE.png">',
+     qtd: 1
   },
 
   6: {
-    nome: "Kit Instance Açaí e Bambu",
+    nome: "Aneis 2 em 1 Brilho Celestial",
    // desc: "..",
-    valor: 131.19,
-    img: '<img src="assets/img/projects/tenis-masc.png">',
-    qtd: 1
-  },
-/*
-  7: {
-    nome: "..",
-    desc: "..",
-    valor: ,
-    img: '<img src="">',
+    valor: 198.90,
+    img: '<img src="assets/img/projects/ANEISSOLELUA.png">',
     qtd: 1
   },
 
+  7: {
+     nome: "Kit Instance Açaí e Bambu",
+   // desc: "..",
+    valor: 131.19,
+    img: '<img src="assets/img/projects/KITACAI.png">',
+    qtd: 1
+  },
+/*
   8: {
     nome: "..",
     desc: "..",
@@ -78,57 +78,57 @@ const products = {
   20: {
     nome: "Presente Natura Essencial Oud Feminino com Bolsa",
     //desc: "Material da bolsa ecologicamente pensado, versatil e duradouro. Algodão orgânico",
-    valor: 3149.10,
-    img: '<img src="../img/pag-produtos/essencial-oud.png">',
+    valor: 474.10,
+    img: '<img src="assets/img/pag-produtos/essencial-oud.png">',
     qtd: 1
   },
   21: {
     nome: "Brinco Argola Semi Joia com Zirconias Banhado a Ouro 18k",
    // desc: "",
     valor: 99.99,
-    img: '<img src="../img/pag-produtos/brincos-zirconia.png">',
+    img: '<img src="assets/img/pag-produtos/brincos-zirconia.png">',
     qtd: 1
   },
   22: {
     nome: "Presente Natura Sève Amêndoas e Orquídea Negra",
    // desc: "",
-    valor: 474.10,
-    img: '<img src="../img/pag-produtos/oleo-seve.png">',
+    valor: 159.50,
+    img: '<img src="assets/img/pag-produtos/oleo-seve.png">',
     qtd: 1
   },
   23: {
     nome: "Combo Siàge Completo - Reconstrói os Fios (7 itens)",
    //desc: "..",
     valor: 348.89,
-    img: '<img src="../img/pag-produtos/eudora-linha-reconstroi-os-fios.png">',
+    img: '<img src="assets/img/pag-produtos/eudora-linha-reconstroi-os-fios.png">',
     qtd: 1
   },
   24: {
     nome: "Anel Semi Jóia Dourado Coração Com Pedras",
     //desc: "..",
-    valor: 106.00,
-    img: '<img src="../img/pag-produtos/anel-semi-joia-dourado-coracao-com-pedras.png">',
+    valor: 196.00,
+    img: '<img src="assets/img/pag-produtos/anel-semi-joia-dourado-coracao-com-pedras.png">',
     qtd: 1
   },
   25: {
-    nome: "SCombo Siàge - Revela Os Cachos",
+    nome: "Combo Siàge - Revela Os Cachos",
    // desc: "",
     valor: 159.98,
-    img: '<img src="../img/pag-produtos//siage-revela-os-cachos.png>',
+    img: '<img src="assets/img/pag-produtos/siage-revela-os-cachos.png>',
     qtd: 1
   },
   26: {
     nome: "Combo Eudora - La Victorie",
-    desc: "Muito Utilizado em tecnologias avançadas..",
+    //desc: "",
     valor: 329.05,
-    img: '<img src="../img/pag-produtos/la-parfum.png">',
+    img: '<img src="assets/img/projects/la-parfum.png">',
     qtd: 1
   },
   27: {
     nome: "Combo Eudora - Eau De Parfum",
     desc: "..",
     valor: 315.99,
-    img: '<img src="../img/pag-produtos/Eau De-Parfum.png">',
+    img: '<img src="assets/img/pag-produtos/Eau-De-Parfum.png">',
     qtd: 1
   },
 
