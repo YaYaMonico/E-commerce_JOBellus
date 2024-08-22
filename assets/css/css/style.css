@@ -356,7 +356,7 @@ header {
   width: 84%;
   height: 80%;
   /* margin-top: 30px; */
-  background-image: url(..//img/backgrounds/logo.png);
+  background-image: url(../E-commerce_JOBellus/assets/img/backgrounds/logo.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -830,7 +830,7 @@ header {
   width: 40%;
   min-width: 400px;
   background-color: var(--secundary-background);
-  background-image: url("../img/projects/logo.png");
+  background-image: url("../E-commerce_JOBellus/assets/img/projects/logo.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -882,7 +882,7 @@ header {
   .banner-initial figure {
     width: 100%;
     height: 100%;
-    background-image: url(..//img/backgrounds/mobile-back.jpg);
+    background-image: url(../E-commerce_JOBellus/assets/img/backgrounds/mobile-back.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
