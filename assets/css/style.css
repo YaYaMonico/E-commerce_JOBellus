@@ -362,7 +362,7 @@ header {
   width: 84%;
   height: 80%;
   /* margin-top: 30px; */
-  background-image: url(..//img/backgrounds/background\background_pag_home.png);
+  background-image: url(../img/backgrounds/background_pag_home.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -888,7 +888,7 @@ header {
   .banner-initial figure {
     width: 100%;
     height: 100%;
-    background-image: url(..//img/backgrounds/background\(3\).png);
+    background-image: url(../img/backgrounds/background_pag_produtos.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
